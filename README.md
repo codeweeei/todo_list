@@ -5,9 +5,11 @@
 ## 后端 cmd 窗口
 
 1. 根目录里 `cd server` 进入 server
-2. server 里 `npm run server` 开启 express 搭建的代做事项接口
+2. `npm install` 下载所需的包
+3. server 里 `npm run server` 开启 express 搭建的代做事项接口
 
 ## 前端 cmd 窗口
 
 1. 根目录 `cd todolist` 进入 todolist
-2. todolist 里 `npm run serve` 运行项目
+2. `npm install` 下载所需的包
+3. todolist 里 `npm run serve` 运行项目
